@@ -4,3 +4,5 @@
 
 
 # Join the Discord: https://github.com/CodedImmersions/MirrorVR
+
+# Look at The MirrorVR Docs: https://mirrorvr.gitbook.io/docs/manual/getting-started
