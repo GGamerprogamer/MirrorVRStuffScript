@@ -30,9 +30,7 @@ public class JoinTriggerMirrorVR : MonoBehaviour
         if (other.CompareTag(handTag))
         {
             hasTriggered = false;
-            
-            if (NetworkClient.isConnected)
-                NetworkClient.Disconnect();
+            // Don't disconnect when leaving trigger - stay connected to lobby
         }
     }
 
