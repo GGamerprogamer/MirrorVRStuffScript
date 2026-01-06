@@ -12,3 +12,6 @@
 # Update Log 
 
 Added MirrorVRCCosmetic to equip and unequip the cosmetic in one button simple and easy to setup
+
+<img width="672" height="558" alt="image" src="https://github.com/user-attachments/assets/23ad47d6-da93-4c5f-a6b1-b444e85dcb78" />
+
